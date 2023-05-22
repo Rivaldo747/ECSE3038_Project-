@@ -34,3 +34,6 @@ Testing:
 when testing,
 Test the functionality of your IoT platform by interacting with the webpage and verifying that the appliances respond as expected.
 Test different scenarios, such as setting temperature and time-based controls, and observe the behavior of the appliances.
+
+this lab overral wasnt bad, have a few hiccups with connectin to render but the functionality of the app should work.
+
